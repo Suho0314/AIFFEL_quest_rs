@@ -5,6 +5,7 @@
 ---
 # Structure of this repository
 AIFFEL_quest_cr
+```bash
 ├── MainQuest
 │   ├── Quest01
 │   │   ├── .ipynb
@@ -26,3 +27,4 @@ AIFFEL_quest_cr
     └── Ex07
         ├── .ipynb
         └── README.md
+```
