@@ -6,25 +6,37 @@
 # Structure of this repository
 AIFFEL_quest_cr
 ```bash
-├── MainQuest
-│   ├── Quest01
-│   │   ├── .ipynb
-│   │   └── README.md
-.		.
-.		.
-.		.
-│   └── Quest08
-│       ├── .ipynb
-│       └── README.md
-.
-.
-.
-└── Exploration
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+├── Exploration
+│    ├── Ex01
+│    │   ├── .ipynb
+│    │   └── README.md
+.    .   
+.    .   
+.    .   
+│    └── Ex07
+│        ├── .ipynb
+│        └── README.md
+│
+│
+├── GoingDeeper
+│    ├── GD01
+│    │   ├── .ipynb
+│    │   └── README.md
+.	 .	 
+.	 .	 
+.	 .	 
+│    └── GD09
+│        ├── .ipynb
+│        └── README.md
+│
+│
+└── GoingDeeper
+     ├── GD01
+     │   ├── .ipynb
+     .	 └── README.md
+	 . 
+	 .
+     └── GD09
+         ├── .ipynb
+         └── README.md
 ```
