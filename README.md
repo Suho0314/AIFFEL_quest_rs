@@ -30,13 +30,13 @@ AIFFEL_quest_cr
 │        └── README.md
 │
 │
-└── GoingDeeper
-     ├── GD01
+└── MainQuest
+     ├── Quest01
      │   ├── .ipynb
      .	 └── README.md
 	 . 
 	 .
-     └── GD09
+     └── Quest02
          ├── .ipynb
          └── README.md
 ```
